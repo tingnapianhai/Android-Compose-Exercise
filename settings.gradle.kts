@@ -12,5 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Android Compose Exercise"
-include ':app'
+
+rootProject.name = "Compose Exercise"
+include(":app")

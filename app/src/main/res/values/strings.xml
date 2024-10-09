@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Android Compose Exercise</string>
+    <string name="app_name">Exercise</string>
+    <string name="new_games">New Games</string>
+    <string name="favorite_games">Favorite Games</string>
+    <string name="game_not_found">Game not found</string>
+    <string name="transition_to_game_view">transition to game view</string>
+    <string name="back">Back</string>
 </resources>

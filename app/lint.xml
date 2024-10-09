@@ -1,0 +1,5 @@
+<lint>
+    <issue id="CoroutineCreationDuringComposition">
+        <ignore path="**/**"/>
+    </issue>
+</lint>
