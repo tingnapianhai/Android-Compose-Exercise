@@ -14,6 +14,8 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.android.compose.exercise.MainActivity.Companion.ROUTE_HOME
 import com.android.compose.exercise.MainActivity.Companion.ROUTE_SEARCH
+import com.android.compose.exercise.ui.compose.HomeView
+import com.android.compose.exercise.ui.compose.SearchView
 
 @Composable
 fun MainScreen(

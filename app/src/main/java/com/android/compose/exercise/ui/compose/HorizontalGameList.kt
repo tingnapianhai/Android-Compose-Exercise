@@ -1,4 +1,4 @@
-package com.android.compose.exercise.ui
+package com.android.compose.exercise.ui.compose
 
 import androidx.compose.animation.AnimatedVisibilityScope
 import androidx.compose.animation.ExperimentalSharedTransitionApi

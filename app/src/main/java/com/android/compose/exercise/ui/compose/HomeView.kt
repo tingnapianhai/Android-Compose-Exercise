@@ -1,6 +1,6 @@
 @file:OptIn(ExperimentalSharedTransitionApi::class)
 
-package com.android.compose.exercise.ui
+package com.android.compose.exercise.ui.compose
 
 import androidx.activity.compose.BackHandler
 import androidx.compose.animation.AnimatedContent

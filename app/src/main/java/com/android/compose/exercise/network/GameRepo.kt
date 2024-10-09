@@ -1,7 +1,7 @@
 package com.android.compose.exercise.network
 
 import com.android.compose.exercise.fake.API
-import com.android.compose.exercise.ui.Game
+import com.android.compose.exercise.ui.compose.Game
 
 class GameRepo {
     private val api by lazy { API() }
